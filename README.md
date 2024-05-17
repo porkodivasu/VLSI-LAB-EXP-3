@@ -48,12 +48,12 @@ STEP:11  On the board, by giving required input, the LEDs starts to glow light, 
 
 
 
-**Logic Diagram**
+**Logic Diagram**:
 2 bit Multiplier
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/7713750f-65e6-41c0-8082-5005eac4031c)
 
-**Verilog code**
+**Verilog code**:
 
 ```
 module ha(a,b,sum,c);
@@ -73,14 +73,14 @@ ha ha2(a[1] &b[1],w1,c[2],c[3]);
 endmodule
 ```
 
-**Output Waveform**
+**Output Waveform**:
 
 
 ![Screenshot (87)](https://github.com/porkodivasu/VLSI-LAB-EXP-3/assets/160757120/8da705ff-42aa-4c1c-bd9d-a6765d051ce7)
 
 
 
-**4 Bit Multiplier**
+**4 Bit Multiplier**:
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/d95215dd-8cf1-4e08-93cc-96adfdd7fbdc)
 
@@ -124,14 +124,14 @@ or g5(carry,w[3],w[2]);
 endmodule
 ```
 
-**Output Waveform**
+**Output Waveform**:
 
 4 bit multiplier:
 
 ![Screenshot (89)](https://github.com/porkodivasu/VLSI-LAB-EXP-3/assets/160757120/46bbf351-4150-40b4-8ef2-a754e49a4a36)
 
 
-**Result**
+**Result**:
 
 Thus,the simulation and synthesis of multipliers by using vivado has been successfully excecuted and verified.
 
